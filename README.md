@@ -1,0 +1,1 @@
+# ai-powered-playwright-mcp-automation-training
